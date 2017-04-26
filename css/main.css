@@ -3,11 +3,8 @@ h1 {
   color: white;
 }
 
-.whole{
+body {
   background-image: url("https://pbs.twimg.com/media/C-OfVO-WsAAbKIk.jpg");
   text-align: center;
-}
-
-body {
-background-color: #cdfee3
+  background-color: #cdfee3
 }
