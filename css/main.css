@@ -5,5 +5,9 @@ h1 {
 
 body {
   text-align: center;
-  background-color: #3b3a30
+  background-color: #353535;
+}
+
+col-sm-1{
+  background-color: black;
 }
