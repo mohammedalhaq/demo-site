@@ -1,6 +1,7 @@
 h1 {
   font-family: Palatino, 'Palatino Linotype', serif;
   color: white;
+  text-align: center;
 }
 
 body {
@@ -8,5 +9,5 @@ body {
 }
 
 col-sm-1{
-  background-color: white;
+  background-color: black;
 }
