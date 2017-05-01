@@ -27,10 +27,10 @@ col-sm-4{
 }
 
 .btn.btn-default{
-  font-size: 80px;
+  font-size: 40px;
   border-radius: 15px;
   border: 20px;
-  color: #000000 ;
+  color: #b3ffdf ;
   text-shadow: none;
   background-color: #ffffff;
 }
