@@ -13,11 +13,6 @@ h1 {
   height: 400px;
 }
 
-header .row{
-  display: flex;
-   align-items: center;  
-}
-
 body {
   background-color: #4d4d4d;
 }
@@ -27,9 +22,9 @@ col-sm-4{
 }
 
 .btn.btn-default{
-  font-size: 10px;
+  font-size: 80px;
   border-radius: 15px;
-  border: 0px;
+  border: 20px;
   color: #000000 ;
   text-shadow: none;
   background-color: #ffffff;
