@@ -2,6 +2,7 @@ h1 {
   font-family: Palatino, 'Palatino Linotype', serif;
   color: white;
   text-align: center;
+   text-shadow: 0.5px 0.5px 0.5px #000000;
 }
 
 .jumbotron{
@@ -27,6 +28,7 @@ col-sm-4{
   color: #000000 ;
   text-shadow: none;
   background-color: #ffffff;
+  float: left;
 }
 
 .btn.btn-default:hover {
