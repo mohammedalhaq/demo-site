@@ -2,7 +2,7 @@ h1 {
   font-family: Palatino, 'Palatino Linotype', serif;
   color: white;
   text-align: center;
-  background-color: black;
+  background-image: url('https://cdn.pixabay.com/photo/2017/04/06/17/43/water-2208931_960_720.jpg') ;
 }
 
 body {
@@ -14,9 +14,9 @@ col-sm-4{
 }
 
 .btn.btn-default{
-  border-radius: 2px;
-  border: 0px;
-  color: #fbd1d5;
+  border-radius: 15px;
+  border: 10px;
+  color: #ffffff ;
   text-shadow: none;
   background-color: #ffffff;
 }
