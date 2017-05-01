@@ -10,7 +10,8 @@ h1 {
   background-size: cover;
   display: flex;
   align-items: center;
-  height: 400px;
+  height: 350px;
+  border-radius: 5px;
 }
 
 body {
