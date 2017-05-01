@@ -5,6 +5,10 @@ h1 {
    text-shadow: 0.5px 0.5px 0.5px #000000;
 }
 
+header{
+  text-align: center;
+}
+
 .jumbotron{
   background-image: url('https://pixabay.com/get/eb37b10721f7003ed1534705fb0938c9bd22ffd41db8124794f9c979a7/water-2208931_1920.jpg') ;
   background-size: cover;
