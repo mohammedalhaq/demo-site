@@ -21,6 +21,7 @@ col-sm-4{
 }
 
 .btn.btn-default{
+  font-size: 10px;
   border-radius: 15px;
   border: 0px;
   color: #000000 ;
