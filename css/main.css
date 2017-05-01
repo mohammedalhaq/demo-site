@@ -3,6 +3,7 @@ h1 {
   color: white;
   text-align: center;
    text-shadow: 0.5px 0.5px 0.5px #000000;
+   margin-left: 35px;
 }
 
 header{
@@ -16,6 +17,10 @@ header{
   align-items: center;
   height: 350px;
   border-radius: 5px;
+  margin-left: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 25px;
 }
 
 body {
@@ -27,7 +32,7 @@ col-sm-4{
 }
 
 .btn.btn-default{
-  font-size: 40px;
+  font-size: 20px;
   border-radius: 15px;
   border: 20px;
   color: #b3ffdf ;
