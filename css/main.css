@@ -34,7 +34,7 @@ body {
   border-radius: 10px;
   color: #b3ffdf ;
   background-color: #272523;
-  padding: 8px 30px;
+  padding: 8px 25px;
 }
 
 .btn:hover {
@@ -43,10 +43,9 @@ body {
 }
 
 .btnt{
+  transition: all 0.3s ease 0s;
 }
 
 .btnt:hover{
-  background-image: url('https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png');
-  height: 64px;
-  width: 64px;
+  background-color: #1da1f2;
 }
