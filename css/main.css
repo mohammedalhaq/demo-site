@@ -1,6 +1,6 @@
 h1 {
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: #FF8B64;
+  color: #aaa393;
   text-align: center;
    text-shadow: 0.5px 0.5px 0.5px #000000;
    margin-left: 35px;
@@ -11,7 +11,7 @@ header{
 }
 
 .jumbotron{
-  background-image: url('https://static.pexels.com/photos/192505/pexels-photo-192505.jpeg') ;
+  background-image: url('https://static.pexels.com/photos/192505/pexels-photo-192505.jpeg');
   background-size: cover;
   display: flex;
   align-items: center;
@@ -25,24 +25,27 @@ header{
 }
 
 body {
-  background-color: #E2EFE6;
-}
-
-col-sm-4{
-  background-color: white;
+  background-color: #8f8573;
 }
 
 .btn{
-  
   text-decoration: none;
   font-size: 20px;
   border-radius: 10px;
   color: #b3ffdf ;
-  background-color: #1c1c1c;
+  background-color: #272523;
   padding: 8px 30px;
 }
 
 .btn:hover {
   color: #000000;
   background-color: #b3ffdf;
+}
+
+.btnt{
+  padding: 30px 30px;
+}
+
+.btnt:hover{
+  background-image: url('https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png');
 }
