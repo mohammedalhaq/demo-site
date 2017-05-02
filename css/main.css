@@ -42,8 +42,8 @@ body {
 }
 
 .btnt{
-  max-width:12.5%;
-  max-height:12.5%;
+  max-width:0.125%;
+  max-height:0.125%;
   transition: all 0.3s ease 0s;
   text-decoration: none;
   font-size: 20px;
@@ -57,6 +57,6 @@ body {
 
 .btnt:hover{
   background-image: ('https://s28.postimg.org/u9kyl2t5p/new.png');
-  max-width:12.5%;
-  max-height:12.5%;
+  max-width:0.125%;
+  max-height:0.125%;
 }
