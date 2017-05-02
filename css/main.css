@@ -49,4 +49,6 @@ body {
 
 .btnt:hover{
   background-image: ('https://s28.postimg.org/u9kyl2t5p/new.png');
+  height: 64px;
+  width: 64px;
 }
