@@ -45,10 +45,14 @@ body {
 
 .btnt{
   transition: all 0.3s ease 0s;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 8px 25px;
+  color: #b3ffdf ;
+
 }
 
 .btnt:hover{
   background-image: ('https://s28.postimg.org/u9kyl2t5p/new.png');
-  height: 64px;
-  width: 64px;
+  padding: 25px 25px;
 }
