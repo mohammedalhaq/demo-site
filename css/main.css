@@ -21,10 +21,11 @@ header{
   margin-top: 25px;
   margin-bottom: 25px;
   margin-right: 25px;
+  shadow: 0.5px 0.5px 0.5px #000000
 }
 
 body {
-  background-color: #4d4d4d;
+  background-color: #E2EFE6;
 }
 
 col-sm-4{
