@@ -25,9 +25,6 @@ body {
   background-color: #8f8573;
 }
 
-.col-sm-2.btn{
-  margin-left: 20px;
-}
 .btn{
   transition: all 0.3s ease 0s;
   text-decoration: none;
@@ -36,6 +33,7 @@ body {
   color: #b3ffdf ;
   background-color: #181e24;
   padding: 8px 25px;
+  float: center;
 }
 
 .btn:hover {
@@ -44,7 +42,8 @@ body {
 }
 
 .btnt{
-  background-image: ('https://s1.postimg.org/4zq1t00tb/stock.png');
+  max-width:12.5%;
+  max-height:12.5%;
   transition: all 0.3s ease 0s;
   text-decoration: none;
   font-size: 20px;
@@ -58,6 +57,6 @@ body {
 
 .btnt:hover{
   background-image: ('https://s28.postimg.org/u9kyl2t5p/new.png');
-  width: 50px;
-  height: 50px;
+  max-width:12.5%;
+  max-height:12.5%;
 }
