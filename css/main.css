@@ -17,28 +17,29 @@ header{
   align-items: center;
   height: 350px;
   border-radius: 5px;
-  margin-left: 25px;
-  margin-top: 25px;
-  margin-bottom: 25px;
-  margin-right: 25px;
-  shadow: 0.5px 0.5px 0.5px #000000
+  margin: 20px;
+  shadow: 0.8px 0.8px 0.8px #000000
 }
 
 body {
   background-color: #8f8573;
 }
 
+.col-sm-2.btn{
+  margin-left: 20px;
+}
 .btn{
+  transition: all 0.3s ease 0s;
   text-decoration: none;
   font-size: 20px;
   border-radius: 10px;
   color: #b3ffdf ;
-  background-color: #272523;
+  background-color: #181e24;
   padding: 8px 25px;
 }
 
 .btn:hover {
-  color: #000000;
+  color: #181e24;
   background-color: #b3ffdf;
 }
 
