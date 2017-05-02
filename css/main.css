@@ -39,6 +39,7 @@ col-sm-4{
   color: #b3ffdf ;
   text-shadow: none;
   background-color: #000000;
+  padding: 8px 30px;
 }
 
 .btn.btn-default:hover {
