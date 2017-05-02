@@ -1,6 +1,6 @@
 h1 {
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: white;
+  color: #FF8B64;
   text-align: center;
    text-shadow: 0.5px 0.5px 0.5px #000000;
    margin-left: 35px;
@@ -33,15 +33,15 @@ col-sm-4{
 }
 
 .btn.btn-default{
-  font-size: 20px;
+  font-size: 25px;
   border-radius: 15px;
   border: 20px;
   color: #b3ffdf ;
   text-shadow: none;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 .btn.btn-default:hover {
-  color: #ffffff;
+  color: #000000;
   background-color: #b3ffdf;
 }
