@@ -25,6 +25,10 @@ body {
   background-color: #8f8573;
 }
 
+p .col-sm-2{
+  float: center;
+}
+
 .btn{
   transition: all 0.3s ease 0s;
   text-decoration: none;
