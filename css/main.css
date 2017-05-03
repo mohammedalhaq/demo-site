@@ -1,3 +1,5 @@
+/*https://color.adobe.com/Color-Theme-1-color-theme-9518303/?showPublished=true*/
+
 h1 {
   font-family: Roboto;
   color: #aaa393;
@@ -22,27 +24,24 @@ header{
 }
 
 body {
-  background-color: #8f8573;
-}
-
-p{
-  float: center;
+  background-color: #f2ebc7;
 }
 
 .btn{
+  font-family: Roboto;
   transition: all 0.3s ease 0s;
   text-decoration: none;
   font-size: 20px;
   border-radius: 10px;
-  color: #b3ffdf ;
-  background-color: #181e24;
+  color: #979c9c ;
+  background-color: #343642;
   padding: 8px 25px;
   float: center;
 }
 
 .btn:hover {
-  color: #181e24;
-  background-color: #b3ffdf;
+  color: #343642;
+  background-color: #979c9c;
 }
 
 .btnt{
