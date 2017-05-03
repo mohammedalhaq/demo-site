@@ -8,7 +8,7 @@ h1 {
    margin-left: 35px;
 }
 
-header{
+header.container{
   text-align: center;
 }
 
@@ -24,7 +24,7 @@ header{
 }
 
 body {
-  background-color: #f2ebc7;
+  background-color: #E5D9CF;
 }
 
 .btn{
@@ -33,15 +33,15 @@ body {
   text-decoration: none;
   font-size: 20px;
   border-radius: 10px;
-  color: #979c9c ;
-  background-color: #343642;
+  color: #b3ffdf ;
+  background-color: #181e24;
   padding: 8px 25px;
   float: center;
 }
 
 .btn:hover {
-  color: #343642;
-  background-color: #979c9c;
+  color: #181e24;
+  background-color: #b3ffdf;
 }
 
 .btnt{
