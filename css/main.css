@@ -4,8 +4,8 @@ h1 {
   font-family: Roboto;
   color: #E5D9CF;
   text-align: center;
-   text-shadow: 0.5px 0.5px 0.5px #000000;
-   margin-left: 35px;
+  text-shadow: 0.5px 0.5px 0.5px #000000;
+  margin-left: 35px;
 }
 
 .jumbotron{
@@ -21,16 +21,18 @@ h1 {
 
 body {
   background-color: #E5D9CF;
-  text-align: center;
 }
 
 .content{
   font-size: 25px;
-  float: center;
+  text-align: center;
+}
+
+p{
+  text-align: center;
 }
 
 .col-sm-2{
-  float: center;
 }
 
 .btn{
