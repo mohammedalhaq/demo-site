@@ -2,14 +2,10 @@
 
 h1 {
   font-family: Roboto;
-  color: #aaa393;
+  color: #E5D9CF;
   text-align: center;
    text-shadow: 0.5px 0.5px 0.5px #000000;
    margin-left: 35px;
-}
-
-header.container{
-  text-align: center;
 }
 
 .jumbotron{
@@ -27,6 +23,10 @@ body {
   background-color: #E5D9CF;
 }
 
+.col-sm-2{
+  float: center;
+}
+
 .btn{
   font-family: Roboto;
   transition: all 0.3s ease 0s;
@@ -36,7 +36,6 @@ body {
   color: #b3ffdf ;
   background-color: #181e24;
   padding: 8px 25px;
-  float: center;
 }
 
 .btn:hover {
