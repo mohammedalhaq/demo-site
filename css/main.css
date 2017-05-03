@@ -22,7 +22,6 @@ h1 {
 body {
   background-color: #E5D9CF;
   text-align: center;
-  
 }
 
 .content{
@@ -61,7 +60,11 @@ body {
 }
 
 /*make a hover button expands to the right with links*/
-
 .btnt:hover{
   background-image: ('https://s28.postimg.org/u9kyl2t5p/new.png');
+}
+
+footer{
+  text-align: left;
+  margin-left: 20px;
 }
