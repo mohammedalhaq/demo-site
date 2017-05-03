@@ -21,6 +21,11 @@ h1 {
 
 body {
   background-color: #E5D9CF;
+  float: center;
+}
+
+.content{
+  font-size: 25px;
 }
 
 .col-sm-2{
