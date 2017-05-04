@@ -5,7 +5,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #343642;
 }
 
 li {
@@ -21,8 +21,9 @@ li a {
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: #962d3e;
 }
+
 h1 {
   font-family: Roboto;
   color: #E5D9CF;
