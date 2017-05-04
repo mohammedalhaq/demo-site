@@ -1,6 +1,7 @@
 /*https://color.adobe.com/Color-Theme-1-color-theme-9518303/?showPublished=true*/
 
 ul {
+    transition: all 0.3s ease 0s;
     font-family: Roboto;
     list-style-type: none;
     margin: 0px;
