@@ -11,7 +11,6 @@ hr{
 }
 
 ul {
-    transition: all 0.3s ease 0s;
     font-family: Roboto;
     list-style-type: none;
     margin: 0px;
@@ -26,6 +25,7 @@ li {
 }
 
 li a {
+    transition: all 0.3s ease 0s;
     display: block;
     color: white;
     text-align: center;
