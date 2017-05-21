@@ -5,9 +5,9 @@ hr{
   margin-top: 2px;
   border-width: 1px;
   margin-left: auto;
-   margin-right: auto;
-   border-style: inset;
-    display: block;
+  margin-right: auto;
+  border-style: inset;
+  display: block;
 }
 
 ul {
@@ -69,7 +69,9 @@ p{
   text-align: center;
 }
 
-.col-sm-2{
+.proj{
+  text-align: left;
+  font-size: 35px;
 }
 
 .btn{
