@@ -52,6 +52,7 @@ h1 {
 }
 
 .jumbotron{
+  text-align: center;
   background-image: url('https://s9.postimg.org/i7b7fentb/pexels-photo-192505.jpg');
   background-size: cover;
   display: flex;
@@ -68,21 +69,21 @@ body {
 }
 
 .content{
-  font-size: 20px;
+  font-size: 16px;
   text-align: left;
   margin-left: 40px;
 }
 
 .proj{
   margin-left: 20px;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .btn{
   font-family: Roboto;
   transition: all 0.3s ease 0s;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 16px;
   border-radius: 10px;
   color: #b3ffdf ;
   background-color: #181e24;
