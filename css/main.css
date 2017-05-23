@@ -46,7 +46,7 @@ li a:hover {
 h1 {
   color: #E5D9CF;
   text-shadow: 0.5px 0.5px 0.5px #000000;
-  margin-left: 25px;
+  margin-left: 45px;
   margin-top: 25px;
 }
 
@@ -56,8 +56,8 @@ h1 {
   display: flex;
   align-items: center;
   height: 350px;
-  border-radius: 5px;
-  margin: -5px;
+  margin-left: -10px;
+  margin-right: -10px;
   shadow: 0.8px 0.8px 0.8px #000000
 }
 
