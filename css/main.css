@@ -46,8 +46,8 @@ li a:hover {
 h1 {
   color: #E5D9CF;
   text-shadow: 0.5px 0.5px 0.5px #000000;
-  margin-left: auto;
-  margin-top: auto;
+  margin-left: 25px;
+  margin-top: 25px;
 }
 
 .jumbotron{
