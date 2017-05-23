@@ -23,7 +23,7 @@ ul {
 }
 
 .res{
-    text-align: center;
+    text-align: right;
 }
 
 li {
@@ -68,7 +68,8 @@ body {
 
 .content{
   font-size: 20px;
-  text-align: center;
+  text-align: left;
+  margin-left: 20px;
 }
 
 .proj{
