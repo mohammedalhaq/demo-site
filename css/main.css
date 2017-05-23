@@ -44,11 +44,10 @@ li a:hover {
 }
 
 h1 {
-  font-family: Roboto;
   color: #E5D9CF;
-  text-align: center;
   text-shadow: 0.5px 0.5px 0.5px #000000;
-  margin-left: 35px;
+  margin-left: auto;
+  margin-top: auto;
 }
 
 .jumbotron{
