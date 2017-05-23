@@ -57,7 +57,7 @@ h1 {
   align-items: center;
   height: 350px;
   border-radius: 5px;
-  margin: 20px;
+  margin: -5px;
   shadow: 0.8px 0.8px 0.8px #000000
 }
 
