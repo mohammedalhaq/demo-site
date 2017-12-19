@@ -51,6 +51,7 @@ h1 {
   margin-top: 35px;
 }
 
+/*take out picture eventually*/
 .jumbotron{
   text-align: center;
   background-image: url('https://s9.postimg.org/i7b7fentb/pexels-photo-192505.jpg');
@@ -76,7 +77,7 @@ body {
 
 .proj{
   margin-left: 20px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .btn{
