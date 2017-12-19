@@ -69,10 +69,10 @@ body {
   background-color: #F1DAD6;
 }
 
-.content{
+.contentR{
   font-size: 16px;
   text-align: right;
-  margin-left: 40px;
+  margin-right: 40px;
 }
 
 .content{
