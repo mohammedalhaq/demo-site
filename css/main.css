@@ -76,9 +76,15 @@ body {
 }
 
 .proj{
-  margin-left: 20px;
+  margin-left: 35px;
   font-size: 18px;
 }
+
+.bio{
+  margin-right: 35px;
+  font-size: 18px;
+}
+
 
 .btn{
   font-family: Roboto;
@@ -86,13 +92,13 @@ body {
   text-decoration: none;
   font-size: 16px;
   border-radius: 8px;
-  color: #b3ffdf ;
+  color: #F1DAD6 ;
   background-color: #343642;
   padding: 10px 28px;
 }
 
 .btn:hover {
-  color: #343642;
+  color: #F1DAD6;
   background-color: #851934;
 }
 
