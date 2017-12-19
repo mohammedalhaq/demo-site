@@ -66,7 +66,7 @@ h1 {
 
 body {
   font-family: Roboto;
-  background-color: #343642;
+  background-color: #F2F2F2;
 }
 
 .content{
@@ -96,22 +96,8 @@ body {
   background-color: #b3ffdf;
 }
 
-.btnt{
-  transition: all 0.3s ease 0s;
-  text-decoration: none;
-  font-size: 20px;
-  color: #b3ffdf ;
-  background-color: #181e24;
-  border-radius: 10px;
-
-}
-
-/*make a hover button expands to the right with links*/
-.btnt:hover{
-  background-image: ('https://s28.postimg.org/u9kyl2t5p/new.png');
-}
-
 footer{
   text-align: left;
   margin-left: 20px;
+  color: #FFFFFF;
 }
