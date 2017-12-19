@@ -71,6 +71,12 @@ body {
 
 .content{
   font-size: 16px;
+  text-align: right;
+  margin-left: 40px;
+}
+
+.content{
+  font-size: 16px;
   text-align: left;
   margin-left: 40px;
 }
