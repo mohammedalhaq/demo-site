@@ -10,38 +10,11 @@ hr{
   display: block;
 }
 
-ul {
-    font-family: Roboto;
-    list-style-type: none;
-    margin-left: -8px;
-    margin-right: -8px;
-    margin-top: -8px;
-    padding: 0px;
-    overflow: hidden;
-    background-color: #343642;
-
 }
 
 .res{
     text-align: right;
     margin-right: 20px;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    transition: all 0.3s ease 0s;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-}
-
-li a:hover {
-    background-color: #962d3e;
 }
 
 h1 {
@@ -52,32 +25,12 @@ h1 {
 }
 
 /*take out picture eventually*/
-.jumbotron{
-  text-align: center;
-  background-image: url('https://s9.postimg.org/i7b7fentb/pexels-photo-192505.jpg');
-  background-size: cover;
-  display: flex;
-  align-items: center;
-  height: 360px;
-  margin-left: -8px;
-  margin-right: -8px;
-  margin-top: 8px;
-
-  shadow: 0.8px 0.8px 0.8px #000000
-}
 
 body {
   font-family: Roboto;
   background-color: #ECF0F1;
 }
 
-.contentR{
-  font-size: 16px;
-  text-align: right;
-  margin-right: 40px;
-  margin-left: 40px;
-
-}
 
 .content{
   font-size: 16px;
