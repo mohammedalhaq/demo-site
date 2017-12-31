@@ -26,7 +26,10 @@ h2 {
 /*take out picture eventually*/
 
 body {
-  font-color: #525A6F;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #525A6F;
   font-family: Roboto;
   background-image: url("");
   background: linear-gradient(to top left, #137836, #181B23);
