@@ -17,6 +17,12 @@ h1 {
   margin-top: 35px;
 }
 
+h2 {
+  font-size: 36px;
+  margin-left: 66px;
+
+}
+
 /*take out picture eventually*/
 
 body {
@@ -26,15 +32,8 @@ body {
 }
 
 p {
-  text-align: center;
-  
-}
-
-
-.content{
-  font-size: 16px;
-  text-align: left;
-  margin-left: 40px;
+  margin-left: 70px;
+  font-size: 24px;
 }
 
 .bio{
