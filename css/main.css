@@ -19,38 +19,33 @@ h1 {
 
 h2 {
   font-size: 28px;
-  margin-left: 350px;
 
 }
 
 /*take out picture eventually*/
 
 body {
+  margin-left: 25%;
+  margin-right: 25%;
+
   height: 100%;
   background-repeat: no-repeat;
   background-attachment: fixed;
+
   color: #525A6F;
   font-family: Roboto;
-  background-image: url("");
-  background: linear-gradient(to top left, #137836, #181B23);
+
+  background: linear-gradient(to top left, #0F612C, #181B23);
 }
 
 p {
-  margin-left: 350px;
   font-size: 17px;
 }
 
 ul{
-  margin-left: 350px;
+  list-style-type: none; 
   font-size: 17px;
 }
-
-.bio{
-  margin-right: 35px;
-  text-align: right;
-  font-size: 18px;
-}
-
 
 .btn{
   font-family: Roboto;
