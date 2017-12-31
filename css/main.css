@@ -8,7 +8,7 @@ hr{
   margin-right: auto;
   border-style: inset;
   display: block;
-} 
+}
 
 h1 {
   text-align: center;
@@ -19,7 +19,7 @@ h1 {
 
 h2 {
   font-size: 21px;
-
+  font-style: italic;
 }
 
 /*take out picture eventually*/
@@ -53,9 +53,9 @@ ul{
   text-decoration: none;
   font-size: 16px;
   border-radius: 5px;
-  border-color: #343642;
+
   background: none;
-  color: #000000;
+  color: #7D8B9C;
   padding: 8px 20px;
   /*background-color: #343642; */
 }
