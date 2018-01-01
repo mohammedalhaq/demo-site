@@ -49,8 +49,8 @@ ul{
 }
 
 sep{
-  width: 60%;
-  height: 5%;
+  width: 400px;
+  height: 15px;
   background: #B1B1B8;
   border-radius: 10px;
 }
