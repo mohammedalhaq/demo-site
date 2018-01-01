@@ -39,12 +39,20 @@ body {
 }
 
 p {
+  text-indent: 50px;
   font-size: 16px;
 }
 
 ul{
   list-style-type: none;
   font-size: 16px;
+}
+
+sep{
+  width: 60%;
+  height: 5%;
+  background: #B1B1B8;
+  border-radius: 10px;
 }
 
 .btn{
