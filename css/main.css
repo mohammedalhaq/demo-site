@@ -1,13 +1,13 @@
 /*https://color.adobe.com/Color-Theme-1-color-theme-9518303/?showPublished=true*/
 h1 {
   text-align: center;
-  /*text-shadow: 0.5em 0.5em 0.5em #343642;*/
-  margin-top: 50em;
-  font-size: 26em;
+  /*text-shadow: 0.5px 0.5px 0.5px #343642;*/
+  margin-top: 3.125em;
+  font-size: 1.625em;
 }
 
 h2 {
-  font-size: 21em;
+  font-size: 1.313em;
   font-style: italic;
 }
 
@@ -28,22 +28,22 @@ body {
 }
 
 p {
-  text-indent: 50em;
-  font-size: 16em;
+  text-indent: 3.125em;
+  font-size: 1em;
 }
 
 ul{
   list-style-type: none;
-  font-size: 16em;
+  font-size: 1em;
 }
 
 #sep{
   display:block;
   margin: auto;
 
-  width: 500em;
-  height: 8em;
-  border-radius: 10em;
+  width: 31.25em;
+  height: 0.5em;
+  border-radius: 10px;
   background: #B1B1B8;
 }
 
@@ -51,12 +51,12 @@ ul{
   font-family: Roboto;
   transition: all 0.4s ease 0s;
   text-decoration: none;
-  font-size: 16em;
-  border-radius: 5em;
+  font-size: 1em;
+  border-radius: 5px;
 
   background: none;
   color: #7D8B9C;
-  padding: 8em 20em;
+  padding: 8px 20px;
   /*background-color: #343642; */
 }
 
