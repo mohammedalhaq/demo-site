@@ -3,11 +3,11 @@ h1 {
   text-align: center;
   /*text-shadow: 0.5px 0.5px 0.5px #343642;*/
   margin-top: 3.125em;
-  font-size: 1.625em;
+  font-size: 26px;
 }
 
 h2 {
-  font-size: 1.313em;
+  font-size: 22px;
   font-style: italic;
 }
 
@@ -29,12 +29,12 @@ body {
 
 p {
   text-indent: 3.125em;
-  font-size: 1em;
+  font-size: 16px;
 }
 
 ul{
   list-style-type: none;
-  font-size: 1em;
+  font-size: 16px;
 }
 
 #sep{
@@ -51,7 +51,7 @@ ul{
   font-family: Roboto;
   transition: all 0.4s ease 0s;
   text-decoration: none;
-  font-size: 1em;
+  font-size: 16px;
   border-radius: 5px;
 
   background: none;
