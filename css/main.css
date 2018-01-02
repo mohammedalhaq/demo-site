@@ -25,8 +25,8 @@ h2 {
 /*take out picture eventually*/
 
 body {
-  margin-left: 30%;
-  margin-right: 30%;
+  margin-left: 35%;
+  margin-right: 35%;
 
   height: 100%;
   background: linear-gradient(to top left, #0F612C, #143E2C, #181B23);
@@ -48,9 +48,12 @@ ul{
   font-size: 16px;
 }
 
-#sep{
-  width: 400px;
-  height: 15px;
+#sep.center{
+  display:block;
+  margin: 0 auto;
+
+  width: 500px;
+  height: 10px;
   border-radius: 10px;
   background: #B1B1B8;
 }
