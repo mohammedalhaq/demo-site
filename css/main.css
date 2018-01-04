@@ -23,7 +23,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 
-  color: #7D8B9C;
+  color: #546e7a;
   font-family: Roboto;
 
 }
@@ -38,29 +38,27 @@ h3{
   list-style-type: none;
   font-size: 16px;
   padding: 0em;
-  margin: 0.1em;
+  margin-top: 0.8em;
+  margin-bottom: 0.2em;
   font-weight: none;
 }
 
 img{
   display:block;
-  margin: auto;
+  margin: 0 auto;
   border-radius: 5px;
+  max-width: 40em;
 }
 
-img.resize{
-  max-width: 60%;
-  max-height: 60%
-}
 
 #sep{
   display:block;
-  margin: auto;
+  margin: 1em;
 
   width: 31.25em;
   height: 0.5em;
   border-radius: 10px;
-  background: #C3AB9C;
+  background: #61524B;
 }
 
 .btn{
@@ -70,10 +68,9 @@ img.resize{
   font-size: 16px;
   border-radius: 5px;
 
-  background: none;
-  color: #7D8B9C;
+  color: #B0BEC5;
   padding: 8px 20px;
-  /*background-color: #343642; */
+  background-color: #37474F;
 }
 
 .btn:hover {
