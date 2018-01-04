@@ -19,7 +19,7 @@ body {
   margin-right: 35%;
 
   height: 100%;
-  background: linear-gradient(to top left, #0F612C, #181B23);
+  background: #e4dbd0;
   background-repeat: no-repeat;
   background-attachment: fixed;
 
@@ -30,13 +30,27 @@ body {
 
 p {
   text-indent: 3.125em;
+  text-align: center;
   font-size: 16px;
 }
 
-ul{
+h3{
   list-style-type: none;
   font-size: 16px;
-  padding: 0px;
+  padding: 0em;
+  margin: 0.1em;
+  font-weight: none;
+}
+
+img{
+  display:block;
+  margin: auto;
+  border-radius: 5px;
+}
+
+img.resize{
+  max-width: 60%;
+  max-height: 60%
 }
 
 #sep{
