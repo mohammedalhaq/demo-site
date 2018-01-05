@@ -45,11 +45,34 @@ h3{
 
 img{
   display:block;
-  margin: 0 auto;
+  margin: auto;
   border-radius: 5px;
-  max-width: 40em;
+  max-width: 38em;
 }
 
+.website_description{
+  position: absolute;
+  visibility: hidden;
+  opacity: 0;
+
+  transition: opacity .2s, visibility .2s;
+}
+
+.website_description:hover{
+  visibility: visible;
+  opacity: 1;
+}
+
+#sep_small{
+  display:block;
+  margin-bottom: 1em;
+
+  width: 0.5em;
+  height: 0.5em;
+  border-radius: 10px;
+  background: #61524B;
+
+}
 
 #sep{
   display:block;
