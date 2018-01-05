@@ -50,6 +50,10 @@ img{
   max-width: 38em;
 }
 
+.website{
+  position: relative;
+}
+
 .website_description{
   position: absolute;
   visibility: hidden;
@@ -58,7 +62,7 @@ img{
   transition: opacity .2s, visibility .2s;
 }
 
-.website_description:hover{
+.website:hover .website_description{
   visibility: visible;
   opacity: 1;
 }
