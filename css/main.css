@@ -47,7 +47,8 @@ img{
   display:block;
   margin: auto;
   border-radius: 5px;
-  max-width: 38em;
+  max-width: 33em;
+  margin-left: 0;x
 }
 
 a {
@@ -62,17 +63,20 @@ text-decoration: none;
 .website_description{
   position: absolute;
   visibility: hidden;
+  text-align: center;
   opacity: 0;
 
   transition: opacity .2s, visibility .2s;
 }
 
 .website:hover{
+  transition: opacity .2s, visibility .2s;
   filter: brightness(50%);
 
 }
 
 .website:hover .website_description{
+  color: white;
   visibility: visible;
   opacity: 1;
 }
@@ -92,13 +96,14 @@ text-decoration: none;
   display:block;
   margin-bottom: 1em;
 
-  width: 31.25em;
+  width: 33em;
   height: 0.5em;
   border-radius: 10px;
   background: #61524B;
 }
 
 .btn{
+  display: block;
   margin-left: 1em;
   font-family: Roboto;
   transition: all 0.4s ease 0s;
