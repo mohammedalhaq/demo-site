@@ -50,8 +50,13 @@ img{
   max-width: 38em;
 }
 
+a {
+text-decoration: none;
+}
+
 .website{
   position: relative;
+  text-align: center;
 }
 
 .website_description{
@@ -60,6 +65,11 @@ img{
   opacity: 0;
 
   transition: opacity .2s, visibility .2s;
+}
+
+.website:hover{
+  filter: brightness(50%);
+
 }
 
 .website:hover .website_description{
