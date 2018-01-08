@@ -103,7 +103,7 @@ text-decoration: none;
 }
 
 .btn{
-  display: grid;
+  display: table;
   margin-left: 1em;
   font-family: Roboto;
   transition: all 0.4s ease 0s;
