@@ -45,10 +45,9 @@ h3{
 
 img{
   display:block;
-  margin: auto;
+  margin: 0 auto;
   border-radius: 5px;
   max-width: 33em;
-  margin-left: 0;x
 }
 
 a {
@@ -58,21 +57,6 @@ text-decoration: none;
 .website{
   position: relative;
   text-align: center;
-}
-
-.website_description{
-  position: absolute;
-  visibility: hidden;
-  text-align: center;
-  opacity: 0;
-
-  transition: opacity .2s, visibility .2s;
-}
-
-.website:hover{
-  transition: opacity .2s, visibility .2s;
-  filter: brightness(50%);
-
 }
 
 .website:hover .website_description{
@@ -94,25 +78,26 @@ text-decoration: none;
 
 #sep{
   display:block;
-  margin-bottom: 1em;
+  margin: 0 auto;
 
-  width: 33em;
+  width: 30em;
   height: 0.5em;
   border-radius: 10px;
   background: #61524B;
 }
 
 .btn{
-  display: grid;
-  margin-left: 1em;
+  display: inline-block;
+  margin: 0 auto;
+  margin-top: 1em;
+  max-width:6em;
   font-family: Roboto;
   transition: all 0.4s ease 0s;
   text-decoration: none;
-  font-size: 16px;
   border-radius: 5px;
 
   color: #B0BEC5;
-  padding: 8px 20px;
+  padding: 6px 18px;
   background-color: #37474F;
 }
 
