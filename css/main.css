@@ -50,19 +50,13 @@ img{
   max-width: 33em;
 }
 
-a {
+a{
 text-decoration: none;
 }
 
 .website{
   position: relative;
   text-align: center;
-}
-
-.website:hover .website_description{
-  color: white;
-  visibility: visible;
-  opacity: 1;
 }
 
 #sep_small{
