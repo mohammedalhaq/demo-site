@@ -45,24 +45,29 @@ h3{
 }
 
 img{
+  float: left;
   display:block;
   margin-left: 1em;
   border-radius: 5px;
+  max-width: 13em;
 }
 
 a{
 text-decoration: none;
 }
 
+.siteInfo{
+
+}
+
 .website{
   position: relative;
-  text-align: center;
 }
 
 .website:hover{
-  
-}
 
+}
+/*
 #sep_small{
   display:inline;
   margin-bottom: 1em;
@@ -73,7 +78,7 @@ text-decoration: none;
   background: #61524B;
 
 }
-
+*/
 #sep{
   display:block;
   margin: 0 auto;
