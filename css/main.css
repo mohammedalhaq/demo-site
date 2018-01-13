@@ -57,11 +57,12 @@ text-decoration: none;
 }
 
 .siteInfo{
-
+text-align: right;
 }
 
 .website{
   position: relative;
+  margin-bottom: 2em;
 }
 
 .website:hover{
