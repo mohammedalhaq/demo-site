@@ -56,6 +56,15 @@ a{
 text-decoration: none;
 }
 
+.info1{
+  opacity: 0;
+  margin-left: 3em;
+}
+
+.siteInfo.hover .info1{
+  
+}
+
 .siteInfo{
 text-align: right;
 }
