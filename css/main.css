@@ -26,7 +26,7 @@ body {
   background-attachment: fixed;
 
   color: #546e7a;
-  font-family: Roboto; /* change soon */
+  font-family: Calibri; /* change soon */
 }
 
 br {
@@ -65,7 +65,7 @@ text-decoration: none;
   margin-left: 3em;
 }
 
-.siteInfo.hover .info1{
+.siteInfo:hover .info1{
   visibility: visible;
 }
 
@@ -101,6 +101,14 @@ text-align: right;
   height: 0.5em;
   border-radius: 10px;
   background: #61524B;
+}
+
+#intro{
+  display: inline;
+
+  margin: 0 auto;
+  border-radius: 250px;
+
 }
 
 .btn{
